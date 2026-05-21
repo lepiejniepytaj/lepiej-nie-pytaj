@@ -1,1 +1,1 @@
-src/App.jsx
+export default function LepiejNiePytaj() {
