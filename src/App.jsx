@@ -27,6 +27,383 @@ const facts = [
       "Problem zaczyna się wtedy, gdy gazy idą razem z bólem, silnymi wzdęciami, krwią, chudnięciem albo nagłą zmianą rytmu wypróżnień."
     ],
   },
+    {
+    title: "Czemu burczy w brzuchu, nawet gdy nie jesteś głodny?",
+    category: "Tabu",
+    image: "https://images.unsplash.com/photo-1611042553365-9b101441c135?q=80&w=1200&auto=format&fit=crop",
+    intro: "Brzuch potrafi wydać dźwięk w najgorszym możliwym momencie. I nie, to nie zawsze znaczy, że jesteś głodny.",
+    paragraphs: [
+      "Burczenie powstaje, gdy jelita przesuwają powietrze, płyny i treść pokarmową.",
+      "Gdy w środku jest mniej jedzenia, dźwięk może być po prostu lepiej słyszalny.",
+      "Może pojawić się rano, po kawie, po stresie albo nawet po posiłku.",
+      "Samo burczenie zwykle jest normalną pracą układu pokarmowego.",
+      "Jeśli dochodzi silny ból, biegunka albo długotrwałe problemy, warto szukać przyczyny."
+    ],
+  },
+  {
+    title: "Dlaczego stres potrafi boleć fizycznie?",
+    category: "Zdrowie",
+    image: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?q=80&w=1200&auto=format&fit=crop",
+    intro: "Stres nie kończy się na myślach. Potrafi wejść w kark, brzuch, klatkę piersiową i sen tak mocno, że ciało zaczyna zachowywać się jak po awarii.",
+    paragraphs: [
+      "Stres uruchamia reakcję alarmową organizmu.",
+      "Mięśnie się napinają, serce przyspiesza, oddech robi się płytszy.",
+      "Krótki stres może minąć szybko, ale przewlekły potrafi dawać realne objawy fizyczne.",
+      "Bóle brzucha, karku, głowy i problemy ze snem mogą mieć związek z napięciem.",
+      "To nie znaczy, że objawy są wymyślone — ciało naprawdę reaguje."
+    ],
+  },
+  {
+    title: "Po jakim czasie niszczą się płuca od palenia?",
+    category: "Zdrowie",
+    image: "https://images.unsplash.com/photo-1603398938378-e54eab446dde?q=80&w=1200&auto=format&fit=crop",
+    intro: "Papieros nie czeka latami, żeby zacząć robić szkody. Drogi oddechowe reagują szybko, nawet jeśli człowiek długo udaje, że wszystko jest pod kontrolą.",
+    paragraphs: [
+      "Dym papierosowy drażni drogi oddechowe praktycznie od początku.",
+      "Organizm zaczyna produkować więcej śluzu, może pojawić się kaszel i gorsza kondycja.",
+      "Lata palenia zwiększają ryzyko chorób płuc, serca i nowotworów.",
+      "Po rzuceniu palenia organizm zaczyna się regenerować.",
+      "Nie zawsze da się cofnąć wszystko, ale poprawa oddychania może być realna."
+    ],
+  },
+  {
+    title: "Czy umierający człowiek nadal słyszy?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1200&auto=format&fit=crop",
+    intro: "To jedno z tych pytań, które ludzie wpisują po cichu. Bo każdy chce wiedzieć, czy ostatnie słowa naprawdę mogą jeszcze dotrzeć.",
+    paragraphs: [
+      "W ostatnich chwilach życia reakcje ciała mogą być bardzo ograniczone.",
+      "Nie oznacza to jednak, że wszystkie zmysły gasną jednocześnie.",
+      "Słuch bywa jednym ze zmysłów, które mogą działać bardzo długo.",
+      "Dlatego bliscy często mówią do chorego spokojnym głosem nawet wtedy, gdy nie odpowiada.",
+      "Proste słowa pożegnania mogą mieć ogromne znaczenie emocjonalne."
+    ],
+  },
+  {
+    title: "Na czym polega proces balsamacji?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+    intro: "Po śmierci ciało nie czeka grzecznie na pogrzeb. Balsamacja to sposób, żeby spowolnić to, co natura zaczyna robić od razu.",
+    paragraphs: [
+      "Balsamacja to przygotowanie ciała po śmierci.",
+      "Celem jest spowolnienie naturalnych procesów i umożliwienie godnego pożegnania.",
+      "Może obejmować oczyszczenie, zabezpieczenie tkanek i użycie specjalnych płynów.",
+      "Bywa ważna przy transporcie zwłok albo opóźnionym pogrzebie.",
+      "To mroczny temat, ale związany z szacunkiem wobec zmarłego i rodziny."
+    ],
+  },
+  {
+    title: "Ile ważył najgrubszy człowiek w historii?",
+    category: "Rekordy i absurdy",
+    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=1200&auto=format&fit=crop",
+    intro: "To nie jest tylko liczba na wadze. Przy skrajnej otyłości ciało może stać się więzieniem, z którego trudno się wydostać.",
+    paragraphs: [
+      "Skrajna otyłość to nie tylko wygląd, ale ogromne obciążenie dla całego organizmu.",
+      "Problemy dotyczą serca, oddychania, stawów, skóry i codziennej higieny.",
+      "Czasem człowiek nie jest w stanie sam wstać albo przejść kilku kroków.",
+      "Takie rekordy nie powinny być traktowane jak żart.",
+      "Za liczbą często stoi cierpienie, samotność i choroba."
+    ],
+  },
+  {
+    title: "Ile ma wzrostu najniższa osoba na świecie?",
+    category: "Rekordy i absurdy",
+    image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop",
+    intro: "Ten rekord brzmi niewinnie, dopóki nie pomyślisz, że cały świat — schody, łóżka, krzesła i drzwi — był zaprojektowany dla kogoś innego.",
+    paragraphs: [
+      "Najniższe osoby świata żyją w otoczeniu, które zwykle nie jest do nich dostosowane.",
+      "Krzesła, schody, blaty, łóżka i drzwi mogą być codziennym wyzwaniem.",
+      "Tak niski wzrost zwykle wiąże się z rzadkimi zaburzeniami rozwoju.",
+      "To nie jest tylko ciekawostka o centymetrach.",
+      "Warto pisać o takich rekordach z ciekawością, ale też z szacunkiem."
+    ],
+  },
+  {
+    title: "Dlaczego ludzie bali się zaćmień Słońca?",
+    category: "Historia",
+    image: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=1200&auto=format&fit=crop",
+    intro: "Wyobraź sobie, że w środku dnia nagle gaśnie Słońce, a nikt nie potrafi ci wyjaśnić dlaczego. Nic dziwnego, że ludzie widzieli w tym znak katastrofy.",
+    paragraphs: [
+      "Zaćmienie Słońca nawet dziś robi ogromne wrażenie.",
+      "Dawniej, bez wiedzy astronomicznej, mogło wyglądać jak gniew bogów albo zapowiedź katastrofy.",
+      "Nagłe pociemnienie nieba, chłód i dziwne zachowanie zwierząt budziły strach.",
+      "Ludzie tłumaczyli to znakami, mitami i przepowiedniami.",
+      "Dopiero astronomia pozwoliła przewidywać zaćmienia i rozumieć ich mechanizm."
+    ],
+  },
+  {
+    title: "Najdziwniejsze prawa świata — dlaczego w ogóle powstają?",
+    category: "Historia",
+    image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=1200&auto=format&fit=crop",
+    intro: "Niektóre przepisy brzmią tak głupio, że aż trudno uwierzyć, że ktoś musiał je kiedyś zapisać.",
+    paragraphs: [
+      "Dziwne prawa często mają konkretny kontekst historyczny.",
+      "Mogły powstać przez lokalny problem, dawny zwyczaj albo jednorazowe wydarzenie.",
+      "Czasem przepis jest stary i po prostu nikt go nie usunął.",
+      "Internet często wyolbrzymia takie historie, więc warto je sprawdzać.",
+      "Najciekawsze jest pytanie: co musiało się wydarzyć, że ktoś uznał, że trzeba to zapisać w prawie?"
+    ],
+  },
+  {
+    title: "Dlaczego niebo jest niebieskie?",
+    category: "Zwierzęta i natura",
+    image: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=1200&auto=format&fit=crop",
+    intro: "Niby proste pytanie, ale odpowiedź pokazuje, że kolor nieba to efekt wielkiej sztuczki światła i atmosfery.",
+    paragraphs: [
+      "Światło słoneczne wygląda na białe, ale składa się z wielu kolorów.",
+      "Gdy wpada w atmosferę, rozprasza się na cząsteczkach powietrza.",
+      "Kolor niebieski rozprasza się mocniej niż wiele innych barw.",
+      "Dlatego patrząc w niebo, widzimy dominujący niebieski odcień.",
+      "Przy zachodzie światło przechodzi przez grubszą warstwę atmosfery, więc widzimy czerwienie i pomarańcze."
+    ],
+  },
+  {
+    title: "Czy rośliny mogą się ze sobą komunikować?",
+    category: "Zwierzęta i natura",
+    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1200&auto=format&fit=crop",
+    intro: "Rośliny nie mają ust, a mimo to potrafią wysyłać sygnały. Las jest dużo mniej cichy, niż wygląda.",
+    paragraphs: [
+      "Rośliny nie rozmawiają jak ludzie, ale reagują na sygnały chemiczne i środowiskowe.",
+      "Mogą odpowiadać na światło, dotyk, uszkodzenia i atak szkodników.",
+      "Niektóre wydzielają substancje, które wpływają na sąsiednie rośliny.",
+      "Inne mogą przyciągać naturalnych wrogów owadów, które je atakują.",
+      "To subtelna komunikacja bez głosu, ale realna."
+    ],
+  },
+  {
+    title: "Czemu muchy siadają na kupie?",
+    category: "Tabu",
+    image: "https://images.unsplash.com/photo-1505159940484-eb2b9f2588e2?q=80&w=1200&auto=format&fit=crop",
+    intro: "Dla nas to obrzydliwe. Dla muchy to zapach jedzenia, wilgoci i miejsca, gdzie można załatwić sprawy życiowe.",
+    paragraphs: [
+      "Muchy odbierają świat inaczej niż ludzie.",
+      "Odchody mogą oznaczać dla nich źródło pożywienia i miejsce dla larw.",
+      "Przyciąga je zapach, wilgoć i materia organiczna.",
+      "Dlatego są ważnym elementem rozkładu, ale jednocześnie problemem sanitarnym.",
+      "Mogą przenosić drobnoustroje z brudu na jedzenie i powierzchnie."
+    ],
+  },
+  {
+    title: "Ile dostaje więzień za pracę?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1577985043696-8bd54d9f093f?q=80&w=1200&auto=format&fit=crop",
+    intro: "Jednych to ciekawi, innych wkurza. Praca więźniów to temat, w którym mieszają się pieniądze, kara, resocjalizacja i poczucie sprawiedliwości.",
+    paragraphs: [
+      "Praca w więzieniu może wyglądać bardzo różnie.",
+      "Osadzony może wykonywać prace porządkowe albo pracować przy zewnętrznych zleceniach.",
+      "Wynagrodzenie zależy od rodzaju pracy, godzin i przepisów.",
+      "Część pieniędzy może podlegać potrąceniom.",
+      "Nie ma jednej kwoty, która pasuje do każdego przypadku."
+    ],
+  },
+  {
+    title: "Ile centymetrów miał największy penis?",
+    category: "Tabu",
+    image: "https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?q=80&w=1200&auto=format&fit=crop",
+    intro: "Internet kocha ten temat, ale właśnie dlatego jest tu pełno mitów, przechwałek i liczb, które brzmią lepiej niż są udowodnione.",
+    paragraphs: [
+      "Przy takich rekordach bardzo łatwo o przesadę i niepotwierdzone historie.",
+      "Część liczb pochodzi z wywiadów albo programów rozrywkowych.",
+      "Rzetelny rekord wymagałby jasnej metody pomiaru i wiarygodnej dokumentacji.",
+      "Dlatego nie każdą sensacyjną liczbę warto traktować jako fakt.",
+      "To temat klikalny, ale trzeba go prowadzić ostrożnie i bez taniej ściemy."
+    ],
+  },
+  {
+    title: "Jaki człowiek żył najdłużej?",
+    category: "Rekordy i absurdy",
+    image: "https://images.unsplash.com/photo-1544027993-37dbfe43562a?q=80&w=1200&auto=format&fit=crop",
+    intro: "Historii o ludziach żyjących 140 lat jest mnóstwo. Problem w tym, że większość rozpada się przy pierwszym kontakcie z dokumentami.",
+    paragraphs: [
+      "Przy rekordach długowieczności najważniejsza jest dokumentacja.",
+      "Wiele rodzinnych historii o ekstremalnym wieku nie ma potwierdzenia w aktach.",
+      "Najbardziej znanym zweryfikowanym przypadkiem była Jeanne Calment.",
+      "Długowieczność zależy od genów, stylu życia, opieki medycznej i szczęścia.",
+      "Prawdziwe rekordy są rzadsze niż internetowe legendy."
+    ],
+  },
+  {
+    title: "Jaki jest rekord promili w Polsce?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1200&auto=format&fit=crop",
+    intro: "To brzmi jak pijacka legenda, ale rekordowe promile to nie powód do śmiechu. To stan, w którym organizm walczy o przetrwanie.",
+    paragraphs: [
+      "Bardzo wysokie stężenie alkoholu we krwi to skrajne zatrucie.",
+      "Może prowadzić do utraty przytomności, zaburzeń oddychania, śpiączki i śmierci.",
+      "Takie historie brzmią sensacyjnie, ale zwykle mają tragiczne tło.",
+      "Za liczbą mogą stać wypadki, uzależnienie i realne zagrożenie życia.",
+      "To bardziej ostrzeżenie niż powód do żartu."
+    ],
+  },
+  {
+    title: "Dlaczego psy wąchają sobie tyłki?",
+    category: "Zwierzęta i natura",
+    image: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=1200&auto=format&fit=crop",
+    intro: "Dla człowieka to niezręczne. Dla psa to normalne sprawdzenie, z kim ma do czynienia.",
+    paragraphs: [
+      "Psy poznają świat przede wszystkim nosem.",
+      "Zapach okolic odbytu i gruczołów zapachowych niesie dużo informacji.",
+      "Pies może wyczuć płeć, stan emocjonalny i to, czy zna drugiego psa.",
+      "Dla ludzi wygląda to dziwnie, ale w psim świecie jest naturalne.",
+      "To trochę jak zapachowy dowód osobisty."
+    ],
+  },
+  {
+    title: "Czy kura może biegać bez głowy?",
+    category: "Rekordy i absurdy",
+    image: "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?q=80&w=1200&auto=format&fit=crop",
+    intro: "Brzmi jak wiejska legenda albo scena z horroru, ale ciało po ciężkim urazie potrafi jeszcze przez chwilę działać na odruchach.",
+    paragraphs: [
+      "Po utracie głowy ciało zwierzęcia może wykonywać krótkie odruchowe ruchy.",
+      "Nie oznacza to świadomego funkcjonowania.",
+      "Układ nerwowy nie wyłącza wszystkich reakcji w jednej sekundzie.",
+      "Słynny przypadek kury Mike był skrajnie nietypowy.",
+      "To pytanie pokazuje różnicę między odruchem a świadomym działaniem."
+    ],
+  },
+  {
+    title: "Co dzieje się z ciałem, w które trafia pocisk?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?q=80&w=1200&auto=format&fit=crop",
+    intro: "To nie jest tylko czysta dziura jak w filmie. Pocisk potrafi zrobić w ciele chaos, którego z zewnątrz często nie widać.",
+    paragraphs: [
+      "Obrażenia zależą od energii pocisku, miejsca trafienia i rodzaju tkanek.",
+      "Pocisk może uszkodzić tkanki bezpośrednio i wywołać falę energii.",
+      "Największym zagrożeniem bywa krwotok, uszkodzenie narządów i wstrząs.",
+      "Rana postrzałowa to sytuacja ratunkowa, nie filmowy efekt specjalny.",
+      "Liczy się szybka pomoc i zatamowanie krwawienia."
+    ],
+  },
+  {
+    title: "Kto wynalazł pierwszy sedes?",
+    category: "Tabu",
+    image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1200&auto=format&fit=crop",
+    intro: "Sedes może nie brzmi jak wielki wynalazek, dopóki nie wyobrazisz sobie miasta bez kanalizacji, smrodu i normalnej toalety.",
+    paragraphs: [
+      "Wczesne projekty toalety ze spłuczką pojawiły się już setki lat temu.",
+      "Sama idea nie wystarczyła — potrzebna była kanalizacja, rury i lepsza infrastruktura.",
+      "Dopiero rozwój miast i higieny sprawił, że toaleta stała się powszechna.",
+      "Sedes to jeden z wynalazków, który naprawdę zmienił codzienne życie.",
+      "Historia toalety to również historia walki z brudem, chorobami i smrodem."
+    ],
+  },
+  {
+    title: "Dlaczego granice Afryki są takie proste?",
+    category: "Historia",
+    image: "https://images.unsplash.com/photo-1484318571209-661cf29a69f8?q=80&w=1200&auto=format&fit=crop",
+    intro: "Te linie nie wyglądają naturalnie, bo często naturalne nie były. Wiele z nich narysowano pod interesy ludzi daleko od Afryki.",
+    paragraphs: [
+      "Proste granice często zdradzają, że ktoś rysował je na mapie bardziej niż w terenie.",
+      "W Afryce wiele granic ma związek z kolonializmem.",
+      "Europejskie mocarstwa dzieliły terytoria według własnych interesów.",
+      "Często ignorowano języki, ludy, dawne królestwa i lokalne relacje.",
+      "Skutki takich decyzji potrafią wpływać na politykę i konflikty przez pokolenia."
+    ],
+  },
+  {
+    title: "Co się dzieje z kupą spuszczoną w toalecie?",
+    category: "Tabu",
+    image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1200&auto=format&fit=crop",
+    intro: "Naciskasz spłuczkę i problem znika. Tylko że nie znika — po prostu trafia do ukrytego systemu, bez którego miasta utonęłyby w brudzie.",
+    paragraphs: [
+      "Po spuszczeniu wody nieczystości trafiają do rur i kanalizacji.",
+      "Dalej płyną do przepompowni, kolektorów i oczyszczalni ścieków.",
+      "Oczyszczalnia usuwa zanieczyszczenia etapami.",
+      "To nie jest magiczny filtr, tylko ogromna infrastruktura.",
+      "Dlatego toaleta nie jest koszem na śmieci."
+    ],
+  },
+  {
+    title: "Czy przy uderzeniu samolotu człowiek czuje, że umiera?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=1200&auto=format&fit=crop",
+    intro: "To mroczne pytanie, ale bardzo ludzkie. Nie chodzi o sensację, tylko o strach przed ostatnią sekundą.",
+    paragraphs: [
+      "Nie da się uczciwie odpowiedzieć jednym zdaniem dla każdej katastrofy.",
+      "Przy bardzo gwałtownym uderzeniu wszystko może wydarzyć się ekstremalnie szybko.",
+      "Mózg może nie mieć czasu świadomie przetworzyć samego momentu.",
+      "Inaczej jest, gdy zagrożenie trwa dłużej przed uderzeniem.",
+      "To jeden z tych tematów, które bardziej pokazują ludzką potrzebę zrozumienia strachu niż ciekawość dla samej sensacji."
+    ],
+  },
+  {
+    title: "Co czuje człowiek po nokaucie?",
+    category: "Zdrowie",
+    image: "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?q=80&w=1200&auto=format&fit=crop",
+    intro: "Nokaut wygląda efektownie tylko z kanapy. Dla mózgu to gwałtowne przeciążenie, po którym człowiek może nie wiedzieć, co się dzieje.",
+    paragraphs: [
+      "Nokaut to uraz mózgu, a nie zwykłe zaśnięcie.",
+      "Po odzyskaniu świadomości człowiek może być zdezorientowany i senny.",
+      "Może nie pamiętać momentu uderzenia.",
+      "Częste są ból głowy, nudności, światłowstręt i zawroty.",
+      "Najgorsze jest lekceważenie objawów i szybki powrót do kolejnego uderzenia."
+    ],
+  },
+  {
+    title: "Jak wygląda zawał serca?",
+    category: "Zdrowie",
+    image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?q=80&w=1200&auto=format&fit=crop",
+    intro: "Zawał nie zawsze robi teatralną scenę. Czasem wchodzi po cichu, udaje niestrawność albo zmęczenie i właśnie dlatego jest tak zdradliwy.",
+    paragraphs: [
+      "Zawał może dawać ucisk albo ból w klatce piersiowej.",
+      "Ból może promieniować do ramienia, szyi, żuchwy, pleców albo brzucha.",
+      "Czasem pojawia się duszność, zimny pot, nudności albo ogromne osłabienie.",
+      "U części osób objawy są mniej typowe i łatwe do zlekceważenia.",
+      "Przy podejrzeniu zawału nie warto czekać — liczy się szybka pomoc."
+    ],
+  },
+  {
+    title: "Co się stało z danymi z Naszej Klasy?",
+    category: "Historia",
+    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    intro: "Kiedyś pół Polski wrzucało tam zdjęcia, klasy i wspomnienia. Potem portal zgasł, a wielu ludzi zrozumiało, że internet też ma datę ważności.",
+    paragraphs: [
+      "Nasza Klasa była dla wielu osób pierwszym dużym portalem społecznościowym.",
+      "Ludzie wrzucali zdjęcia, wspomnienia, komentarze i dawne znajomości.",
+      "Po zamknięciu serwisu dostęp do dawnych profili przestał działać jak wcześniej.",
+      "To pokazuje, że platformy internetowe nie są wieczne.",
+      "Ważne zdjęcia i dane warto mieć też poza portalami."
+    ],
+  },
+  {
+    title: "Ile osób zabiłaby bomba atomowa w Polsce?",
+    category: "Kryminalne",
+    image: "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=1200&auto=format&fit=crop",
+    intro: "To pytanie brzmi jak czarna ciekawość, ale odpowiedź zależy od tylu czynników, że jedna liczba byłaby oszustwem.",
+    paragraphs: [
+      "Skutki wybuchu jądrowego zależą od mocy ładunku, miejsca, pogody i gęstości zaludnienia.",
+      "Znaczenie ma też wysokość wybuchu i rodzaj zabudowy.",
+      "Bezpośrednie zagrożenia to fala uderzeniowa, temperatura, pożary i promieniowanie.",
+      "Później dochodzi problem leczenia rannych, skażenia i zniszczenia infrastruktury.",
+      "To nie kalkulator sensacji, tylko przykład katastrofy humanitarnej."
+    ],
+  },
+  {
+    title: "Jak ludzie widzieli przed wynalezieniem żarówki?",
+    category: "Historia",
+    image: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?q=80&w=1200&auto=format&fit=crop",
+    intro: "Dziś noc rozjaśniasz jednym kliknięciem. Kiedyś ciemność naprawdę rządziła życiem ludzi i decydowała, kiedy kończy się dzień.",
+    paragraphs: [
+      "Przed elektrycznością noc była dużo ciemniejsza niż dzisiaj.",
+      "Świece, lampy oliwne, naftowe i gazowe dawały słabsze światło.",
+      "Oświetlenie było drogie i trzeba było je oszczędzać.",
+      "Ciemność wpływała na pracę, naukę, bezpieczeństwo i życie domowe.",
+      "Żarówka zmieniła rytm dnia i sposób funkcjonowania miast."
+    ],
+  },
+  {
+    title: "Jak wygląda zrzucanie paliwa z samolotu?",
+    category: "Zwierzęta i natura",
+    image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=1200&auto=format&fit=crop",
+    intro: "Brzmi jak koszmar z nieba, ale w lotnictwie zrzut paliwa to kontrolowana procedura awaryjna, a nie przypadkowe lanie ludziom na głowy.",
+    paragraphs: [
+      "Zrzut paliwa stosuje się tylko w określonych sytuacjach.",
+      "Najczęściej chodzi o to, że samolot musi szybciej wrócić do lądowania i jest za ciężki.",
+      "Duże samoloty mają maksymalną masę do bezpiecznego lądowania.",
+      "Procedura odbywa się według zasad, zwykle na odpowiedniej wysokości i w wyznaczonym obszarze.",
+      "Czasem zamiast zrzutu paliwa samolot po prostu krąży, żeby je spalić."
+    ],
+  },
   {
     title: "Dlaczego mamy gęsią skórkę?",
     category: "Ciało człowieka",
